@@ -1,0 +1,7 @@
+
+mk/config.mk
+
+log.txt
+_build
+*.swp
+.hg
